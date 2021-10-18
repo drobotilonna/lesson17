@@ -1,0 +1,45 @@
+body{
+    margin: 0
+}
+.con{
+    background-color: rgba(0, 0, 0, 0.637);
+    height: 100vh;
+    width: 100vw;
+}
+.m{
+    background-color:#084944 ;
+    height: 15%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 40px;
+}
+img{
+  height: 80px;
+  margin-left: 10px;
+}
+.f:hover{
+    color: rgba(207, 198, 143, 0.897);
+    font-size: 20px;
+}
+.z{
+    width: 350px;
+    color:rgba(207, 198, 143, 0.897) ;
+    text-align: center;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.v{
+    width: 350px;
+    color:rgba(207, 198, 143, 0.897) ;
+    text-align: center;
+    font-size: 30px;
+    border-top: 5px solid rgba(207, 198, 143, 0.897);
+    font-family: 'Poppins';
+}
+.h{
+position: absolute;
+right: 40%;
+top: 50%;
+position: fixed;
+}
